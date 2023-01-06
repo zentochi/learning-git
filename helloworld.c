@@ -3,7 +3,7 @@
 int main ()
 {
     char user[20];
-    printf("Please input your name\n") 
+    printf("Please input your username\n") 
     scanf(user);
     printf ("Hello %s!. have a awesome day!\n",&user);
     
