@@ -4,7 +4,7 @@ int main ()
 {
     char user[20];
     scanf(user);
-    printf ("Hello %s!. have a good day!\n",&user);
+    printf ("Hello %s!. have a awesome day!\n",&user);
     
     return 0;
 }
