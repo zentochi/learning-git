@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-int main (void)
+int main ()
 {
-    printf ("Hello user!\n");
+    char user[20];
+    scanf(user);
+    printf ("Hello %s!. have a good day!\n",&user);
+    
+    return 0;
 }
