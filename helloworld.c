@@ -1,3 +1,4 @@
+// helloWorld program without cli argument needed to run
 #include <stdio.h>
 
 int main ()
